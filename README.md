@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm VISHAL MAHESHWARI</h1>
 <h3 align="center">I'm a MERN Stack Developer passionate about building web applications with modern technologies.</h3>
-<img scr="https://github.com/Visal20497/Visal20497/assets/147162171/e1d85871-4a61-494d-a3f5-14916ce1030d" alt='visal20497'/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visal20497&label=Profile%20views&color=0e75b6&style=flat" alt="visal20497" /> </p>
