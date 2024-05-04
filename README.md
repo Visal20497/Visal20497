@@ -10,6 +10,13 @@ I'm a MERN Stack Developer .   Welcome to my GitHub profile!
 - 🌱 I’m currently learning Technology or Skill
 - 👯 I’m looking to collaborate on [Project or Initiative]
 - 💬 Ask me about  :[Reactjs , Nodejs, Javascript , Mongodb , HTML && CSS , Redux , Expressjs ]
+- ## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Visal20497&show_icons=true&theme=radical)
+
+## Let's Connect
+
+Feel free to reach out! Let's connect and collaborate on exciting projects.
 - [LinkedIn](https://www.linkedin.com/in/vishal-maheshwari-292142184/)
 - [Email](mailto:visal20497@gmail.com)
 - 😄 Pronouns: [Your Pronouns]
