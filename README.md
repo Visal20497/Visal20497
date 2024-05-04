@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VISHAL MAHESHWARI</h1>
 <h3 align="center">I'm a MERN Stack Developer passionate about building web applications with modern technologies.</h3>
-![mernstack_cover](https://github.com/Visal20497/Visal20497/assets/147162171/ce5d5a4a-6bf6-4ceb-8e2a-69f61e22e5d0)
+![mernstack_cover](https://github.com/Visal20497/Visal20497/assets/147162171/65689b09-f9e4-40be-b6d3-a013300270ae)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visal20497&label=Profile%20views&color=0e75b6&style=flat" alt="visal20497" /> </p>
 
