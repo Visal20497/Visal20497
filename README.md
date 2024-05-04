@@ -1,11 +1,12 @@
 # Hi !  👋  I'm VISHAL MAHESHWARI !
 
 ## I'm a MERN Stack Developer passionate about building web applications with modern technologies.
+### Profile Views
+![](https://profile-counter.glitch.me/Visal20497/count)
 
 
 ![mernstack_cover](https://github.com/Visal20497/Visal20497/assets/147162171/ce5d5a4a-6bf6-4ceb-8e2a-69f61e22e5d0)
-## Profile Views
-![](https://profile-counter.glitch.me/Visal20497/count)
+
 - 🔭 I’m currently working on mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 - 🌱 I’m continuously learning and improving my skills in web development.
 - 💬 Ask me about: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, Redux, Express.js.
